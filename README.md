@@ -1,0 +1,3 @@
+# Next.js Practice Project
+
+Learning React is in progress...
