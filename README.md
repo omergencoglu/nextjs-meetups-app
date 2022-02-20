@@ -7,4 +7,4 @@ This is a Next.js project to practice its fundemantals. MongoDB, Next.js and Rea
 - You can check meetup details on the individual meetup pages.
 - SEO optimization with Head tag; title and description added by using next/head.
 
-Check out <a href="https://nextjs-meetups-app-f6row16jy-omergencoglu.vercel.app/" target="_blank" rel="noopener noreferrer">Meetups App</a>
+Check out <a href="https://nextjs-meetups-app-seven.vercel.app/" target="_blank" rel="noopener noreferrer">Meetups App</a>
